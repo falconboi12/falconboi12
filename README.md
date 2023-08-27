@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="[https://github.com/falconboi12/falconboi12/blob/89d4fc9ee32df6bd0deec30dc7dce4674b43b702/Sarthak_Anand.jpg?raw=true]" alt="Sarthak Anand" width="300" height="300" style = "float: right" align="right">
+  <img src="[Sarthak_Anand.jpg]" alt="Sarthak Anand" width="300" height="300" style = "float: right" align="right">
   <p>
    
 ## About Me
