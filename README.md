@@ -1,25 +1,20 @@
 <div align="left">
-  <img src="![image](https://github.com/falconboi12/falconboi12/assets/100334581/09dc37bb-ea96-4b1f-a20b-fa9d76ad062e)" alt="Sarthak Anand" width="300" height="300" style = "float: right" align="right">
+  <img src="https://github.com/falconboi12/falconboi12/assets/100334581/09dc37bb-ea96-4b1f-a20b-fa9d76ad062e" alt="Sarthak Anand" width="300" height="300" style = "float: right" align="right">
   <p>
    
 ## About Me
 
-I'm *Sarthak Anand*
+"A precipitous slope, a narrow river width, a fast and violent flow. Due to the terrain and the external influence, the state of the water is perfectly decided. And yet, water obeys only itself. Water is only water. Thoroughly water. Absolutely free." <br>
+-- Miyamoto Musashi, Chapter 305: "The Water Path"
 
-🔧 Mechanical Engineer | 💡 Problem Solver | 🚀 Innovator
+I am Sarthak Anand, a junior undergraduate at Indian Institute of Technology (BHU), Varanasi, India. Navigating through binary or bridges, I am pursuing my degree in Civil Engineering and Computer Science. Apart from academia, I am interested in the whizzing speeds of motorsports, nuances of orchestrating checkmates, or deep diving in the world of ancient philosophers.
 
-
-I am a passionate mechanical engineer with a love for problem-solving and innovation.
-
-Hailing from Pune, India, I have always been captivated by the profound principles of mechanics and their practical applications in our daily lives.
-
-My journey in the pursuit of knowledge and excellence has brought me to the esteemed *Indian Institute of Technology (BHU), Varanasi* with a legacy dating back before India's independence, has provided me with an exceptional platform to nurture my dreams and aspirations., where I am currently a third-year student majoring in Mechanical Engineering. 
 </p>
 </div>
 
 ## Work Experience
 ###  Research Intern  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: right" align=" right" width ="100"> 
-#### Robert Bosch Centre for Cyber-Physical Systems(RBCCPS), Indian Institute of Science
+#### Centre for Sustainable Technologies(CST), Indian Institute of Science, Bangalore
 
 
  
@@ -27,7 +22,7 @@ My journey in the pursuit of knowledge and excellence has brought me to the este
 
 📅 Duration: May'23 - Jul'23
 
-*🔧 Description:*
+*Description:*
 
 - *Comprehensive Kinematics Analysis:* Profoundly delved into the intricacies of gearbox kinematics, conducting an exhaustive assessment of pivotal parameters encompassing Gear Ratio, Face Width, and Modulus.
 
