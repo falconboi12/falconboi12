@@ -24,32 +24,15 @@ I am Sarthak Anand, a junior undergraduate at Indian Institute of Technology (BH
 
 *Description:*
 
-- *Comprehensive Kinematics Analysis:* Profoundly delved into the intricacies of gearbox kinematics, conducting an exhaustive assessment of pivotal parameters encompassing Gear Ratio, Face Width, and Modulus.
+- **Development and Analysis of Alkali Activated Materials (AAM):** Explored the use of various supplementary cementitious materials, including fly ash and ground granulated blast furnace slag, to address environmental and waste management challenges in the concrete industry. Investigated the effects of various additives like NaOH and sucrose on the properties and hardening of AAMs.
 
-- *Python Program for Optimization:* Developed a sophisticated Python program tailored to optimize the number of gear teeth. This innovative solution enabled achieving an extraordinary gear ratio reaching an impressive high of *32.6*.
+- **Advanced Testing & Characterization of AAMs:** Conducted a range of tests, such as flow retention, compressive & flexural strength, ultrasonic pulse velocity, water accessible porosity, and shrinkage. Utilized advanced techniques like X-Ray Diffraction, Nuclear Magnetic Resonance, and Scanning Electron Microscope for detailed microstructural analysis of the material.
 
-- *Weight Reduction through Precision:* Spearheaded an impactful initiative to augment gearbox efficiency. By meticulously optimizing the face width of the existing STOCH 3 gearbox, I realized a significant weight reduction of **20%**.
+- **Exploration of 3D Printing with AAMs:** Delved into the principles of 3D printing, focusing on the challenges and requirements of printing with alkali-activated materials. Assessed critical parameters like pumpability, extrudability, and buildability. Also, investigated potential defects in 3D printing and their implications on the final structure.
 
-This immersive research internship positioned me at the nexus of theoretical understanding and hands-on implementation, driving me to continually seek novel solutions within the realm of mechanical design.<table>
-<td>
-  <tr>
-    <img src = "https://github.com/anshhuman-chaurasia/About-me/assets/96232817/6dc43e6f-2f0d-4f85-810b-8140afefb3d0"width="500">
-    <p>STOCH 3, STOCH LAB, IISc</p>
-  </tr>
-  <tr>
-    
-https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e41d5419-b887-4760-a1c6-24433934f503
-    
-  </tr>
-</td>  
-</table>
-<!--<video width="320" height="240" controls>
-  <source src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e4a08660-3cf9-44a7-99f2-f548fbb1a655" type="video/mp4">
-Your browser does not support the video tag.
-</video>
--->
+- **Implementation of Modern Technologies:** Introduced the concept of ultra-sonication to improve dissolution processes at the nano-scale and examined the potential benefits of using technologies like 3D printing for the rapid construction of structures using alkali-activated materials. Also, considered post-processing techniques to optimize the strength and durability of the printed structures.
 
-
+The experimental results obtained were novel and cannot be shared exclusively, without its publication. 
 
 
 ## Projects
@@ -57,19 +40,28 @@ Your browser does not support the video tag.
 ### Team Trident - Formula Student Car
 
 
-*📅 Duration:* July'22 - Dec'22
+*📅 Duration:* Aug'22 - Jan'23
 
 
 *🔧 Description:* 
 
-Designed Formula Student Car Chassis: Spearheaded the design of the Formula Student car chassis, meticulously balancing essential factors including strength, weight reduction, ergonomics, and adherence to safety regulations.
+Designed Formula Student Car Braking Subsystem: Spearheaded the design of the Formula Student car braking system, meticulously balancing essential factors including efficiency, weight, ergonomics, and adherence to safety regulations.
 
-Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within Ansys to thoroughly assess the chassis design. Notably, this process achieved a significant 15% weight reduction and a substantial 97% increase in strength, enhancing overall performance and safety margins.
-
-Chassis Fabrication Expertise: Utilized AISI1018 steel pipes for chassis fabrication, employing advanced techniques such as arc welding. Employed meticulous attention to detail by incorporating pipe end profiling and fixtures to ensure precision during fabrication.
+Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within Ansys to thoroughly assess the brake disc design. Notably, this process achieved a significant 15% weight reduction and a substantial 97% increase in strength, enhancing overall performance and safety margins.
 
 
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="" alt="CAD" width="500">
+      <p>Created to-scale CAD model of mirroring real-life dimensions. </p>
+    </td>
+    <td align="center">
+      <img src="" alt="Mesh" width="500">
+      <p>Meshing of the CAD</p>
+    </td>
+  </tr>
+</table>
 
 
 ---
