@@ -53,12 +53,12 @@ Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within
 <table>
   <tr>
     <td align="center">
-      <img src="" alt="CAD" width="500">
+      <img src="https://github.com/falconboi12/falconboi12/assets/100334581/c1273c88-2430-4274-af1a-4791245fdfc2" alt="CAD" width="500">
       <p>Created to-scale CAD model of mirroring real-life dimensions. </p>
     </td>
     <td align="center">
-      <img src="" alt="Mesh" width="500">
-      <p>Meshing of the CAD</p>
+      <img src="https://github.com/falconboi12/falconboi12/assets/100334581/c9c62f9f-82a5-4be3-bd61-5118e468e9b6" alt="Mesh" width="500">
+      <p>Stress Analysis of the CAD</p>
     </td>
   </tr>
 </table>
@@ -68,11 +68,11 @@ Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within
 
 ### Design and Development of Laboratory-Scale Tornado Simulator
 
-A Project by BRNS under Associate Professor Dr. Arnab Sarkar
+A Project under Assistant Professor Dr. Basuraj Bhowmik
 
-*📅 Duration:*  Jan ’23-Mar ’23
+*📅 Duration:*  Jan ’23-Apr ’23
 
-*🔧 Description:*
+*Description:*
 
 - Orchestrated the creation of a cutting-edge tornado simulator for structural vulnerability testing.
 - Crafted an innovative approach utilizing guided airflow to induce a swirling effect, accurately mimicking tornado conditions.
@@ -133,72 +133,6 @@ Engaged in an exploratory project guided by Associate Professor [Dr. Amit Tyagi]
 This exploration seamlessly harmonized theoretical innovation with the potential for tangible impact, a testament to my commitment to advancing engineering knowledge and practical solutions.
 
 
-
----
-
-
-### The Robotic Charging Challenge (by Jaguar and Land Rover)
-
-As a pivotal member of the team  to represent IIT BHU for [Inter IIT Tech Meet 11.0 ]([url](https://interiit-tech.org/))
-
-
-*📅 Duration:*  Jan ’23-Mar ’23
-
-*🔧 Description:*
-
-- *Innovative EV Charging Robotic Arm Design:* Conceptualized and crafted an autonomous robotic arm exclusively dedicated to EV charging. The design showcased complete workspace coverage through strategic link optimization.
-
-- *Efficient Power Transmission System:* Pioneered a distinctive power transmission mechanism amalgamating gears, pulleys, and belts. This intricate setup facilitated impeccable control and efficient energy transfer, underlining my proficiency in precision engineering.
-
-- *Kirigami-Inspired End Effector:* Engineered an end effector ingeniously drawing inspiration from kirigami art. This visionary approach empowered the robotic arm with exceptional flexibility, enabling seamless and omnidirectional socket movement.
-
-My contributions encapsulated innovation, precision, and multidisciplinary engineering, emblematic of my commitment to delivering advanced solutions at the intersection of mechanics and automation.
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/a27670ef-23aa-482c-9211-5daeb2523c31" alt="CAD" width="500">
-      <p>Fig. 1 Rendered View</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/d587ee89-2099-49be-9e55-cba5d76d0523" alt="Mesh" width="500">
-      <p>Fig. 2 Gear Mechanims</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-     <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/3584121b-eb99-4da9-9ac3-e2ed29ee8deb" alt="Image 4" width="500">
-      <p>Fig. 3 End Effector</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/666b8dc6-9fb3-4cab-9ca9-0a6c1bcd8cc0" alt="Image 4" width="500">
-      <p>Fig. 4 Isometric View</p>
-    </td>
-  </tr>
-</table>
-<!--
-![Robotic arm 3](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/d587ee89-2099-49be-9e55-cba5d76d0523)
-![Robotic arm 2](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/3584121b-eb99-4da9-9ac3-e2ed29ee8deb)
-![Robotic arm 1](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/a27670ef-23aa-482c-9211-5daeb2523c31)
-![isometric-view](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/666b8dc6-9fb3-4cab-9ca9-0a6c1bcd8cc0)
--->
-
-https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e18ede0d-8d3f-45e6-8ba1-452ef6c70388
-
-
-
-<!--
-
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8a492a95-29a5-4b66-805c-4f7c92f61709)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/b707d019-c804-42da-8e85-0aca4c9a135f)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/7d271522-cd50-4de8-8adf-6963e871ee4c)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/cfdd6603-b0f3-442d-acb1-1f0c90584658)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8db5b4c3-cd50-40ae-a55c-d4690737c683)
--->
-
-
-
 ## Skills
 
 - 🔩 Mechanical Design and Analysis
@@ -209,25 +143,7 @@ https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e18ede0d-8d3f-45
 
 ## Contact Me
 
-📧 Email: [anshuman.chaurasia.mec21@iitbhu.ac.in](mailto:anshuman.chaurasia.mec21@iitbhu.ac.in)
-🔗 LinkedIn: [linkedin.com/in/anshuman-chaurasia/](linkedin.com/in/anshuman-chaurasia/)
-📞 Phone: [+91-930-711-8469](tel:+919307118469)
-<!--
-# About Me
+📧 Email: [sarthak.anand.civ21@itbhu.ac.in](mailto:sarthak.anand.civ21@itbhu.ac.in)
+🔗 LinkedIn: [linkedin.com/in/sarthakanand12/](linkedin.com/in/sarthakanand12/)
+📞 Phone: [+91-9007508444](tel:+919007508444)
 
-Hello there! I'm Anshuman Chaurasia, a determined and ambitious individual hailing from a middle-class background. My journey in pursuit of knowledge and excellence has led me to the prestigious Indian Institute of Technology (BHU), Varanasi, where I am currently a sophomore in the Department of Mechanical Engineering. With its rich history predating India's independence, this institution has been the perfect platform for me to nurture my dreams and aspirations.
-
-From the very beginning of my college life, I have harbored a passion for aerospace engineering. To achieve my goals, I actively participated in various activities that challenged and broadened my understanding of mechanical engineering. One of the highlights was my involvement in the team dedicated to building a Formula Student car—a project that not only honed my technical skills but also taught me the importance of teamwork and perseverance.
-
-Another unforgettable experience was being part of a team that dared to take flight in the prestigious Boeing Aeromodelling Challenge at IIT Kanpur. This venture was a true test of my courage to face the unknown and venture into uncharted territories. I embraced these challenges fearlessly, always hungry for knowledge and eager to learn from every situation.
-
-My foray into the world of robotics began with the Inter IIT competition, where I delved into the complexities of robotic systems. This exposure, coupled with my participation in the JLR's Robotic Arm Challenge, opened up a whole new realm of possibilities and sparked my curiosity to explore further.
-
-Seeking to deepen my understanding of robotics, I embarked on a research internship at STOCH LAB under The Robert Bosch Centre for Cyber-Physical Systems (RBCCPS), IISC, Bangalore. During this immersive experience, I dived into the intricacies of actuators, gears, and transmission in quadruped bots. The slow-paced yet enriching internship allowed me to explore real-world applications and delve into the forefront of cutting-edge technology.
-
-Moreover, I had the privilege of contributing to the development of a hydrokinetic turbine, a revolutionary product that generates electricity from flowing water without the need for dams. This endeavour exposed me to the fascinating realm of Computational Fluid Dynamics (CFD). I had previously worked on CFD simulations for the BRNS Tornado Simulator, but this time, I engaged in more refined work involving 2D and 3D simulations of vertical axis turbines. Additionally, I developed a MATLAB code to perform hand calculations of the torque generated by the turbine, further enhancing my analytical skills.
-
-As I continue my journey, I am driven by an unwavering commitment to excellence, a thirst for knowledge, and an eagerness to make meaningful contributions to the world of mechanical engineering and robotics. My experiences have taught me the importance of pushing my boundaries, embracing challenges, and constantly seeking new opportunities to grow and excel.
-
-Thank you for taking the time to learn about me. I am excited to share my journey and projects on GitHub, where I hope to connect with like-minded individuals, collaborate on innovative ideas, and make a positive impact on the world around me.
--->
