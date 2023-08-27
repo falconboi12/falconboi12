@@ -68,7 +68,8 @@ Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within
 
 ### Design and Development of Laboratory-Scale Tornado Simulator
 
-A Project under Assistant Professor Dr. Basuraj Bhowmik
+Engaged in an exploratory project guided by Associate Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
+
 
 *📅 Duration:*  Jan ’23-Apr ’23
 
@@ -116,21 +117,14 @@ This endeavour seamlessly merged theoretical insights with practical application
 ---
 
 
-### Integrating Art of Origami in Structural Mechanics
+### Blind Source Seperation of noisy response 
 
-Engaged in an exploratory project guided by Associate Professor [Dr. Amit Tyagi]([[url](https://www.iitbhu.ac.in/dept/mec/people/arnabmec)])
-
-
-*📅 Duration:*  Jan ’23-Mar ’23
-
-*🔧 Description:*
+A Project under Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
 
 
-• Spearheaded the creation of pioneering Origami structures engineered with a unique negative Poisson's ratio. This revolutionary design facilitated the absorption and even distribution of impact forces.
+*📅 Duration:*  Aug '23-Present
 
-• Conducted a rigorous exploration of the practical applications of these structures, primarily focusing on mitigating the adverse effects of sudden jerks. Of particular interest was their potential to enhance the resilience of quadruped robots, which are highly susceptible to actuator damage due to abrupt movements.
-
-This exploration seamlessly harmonized theoretical innovation with the potential for tangible impact, a testament to my commitment to advancing engineering knowledge and practical solutions.
+* Description:*
 
 
 ## Skills
@@ -144,6 +138,6 @@ This exploration seamlessly harmonized theoretical innovation with the potential
 ## Contact Me
 
 📧 Email: [sarthak.anand.civ21@itbhu.ac.in](mailto:sarthak.anand.civ21@itbhu.ac.in)
-🔗 LinkedIn: [linkedin.com/in/sarthakanand12/](linkedin.com/in/sarthakanand12/)
+🔗 LinkedIn: [linkedin.com/in/sarthakanand12/](linkedin.com/in/sarthakanand12)
 📞 Phone: [+91-9007508444](tel:+919007508444)
 
