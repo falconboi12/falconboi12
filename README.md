@@ -18,7 +18,7 @@ I am Sarthak Anand, a junior undergraduate at Indian Institute of Technology (BH
 
 
  
-
+---
 
 📅 Duration: May'23 - Jul'23
 
@@ -34,8 +34,58 @@ I am Sarthak Anand, a junior undergraduate at Indian Institute of Technology (BH
 
 The experimental results obtained were novel and cannot be shared exclusively, without its publication. 
 
+---
 
 ## Projects
+
+### Conceptualising Digital Twin for a SDOF system with varying coefficients 
+
+Engaged in an exploratory project guided by Associate Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
+
+
+*📅 Duration:*  Jan ’23-Apr ’23
+
+*Description:*
+
+- Developed a digital twin in MATLAB for a single degree of freedom (SDOF) system with variable mass and stiffness coefficients.
+- Employed Gaussian Process regression to model the relationship between mass, stiffness, and angular frequency.
+- Iteratively refined model, optimizing both basis and kernel functions for precise system representation.
+- Utilized the Bayesian Information Criterion (BIC) for model evaluation, striving for the lowest BIC score.
+- Final model delivered predictive insights into the interplay between mass and stiffness changes.
+  -- Employed exponential decay in stiffness and periodic change in mass coefficient, the performance of the model is shown as below. 
+
+This endeavour seamlessly merged theoretical insights with practical application, exemplifying my commitment to pushing the boundaries of engineering knowledge.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/falconboi12/falconboi12/assets/100334581/1758f40f-122e-4d45-a23d-c312b645cc96" alt="CAD" width="500">
+      <p>Performance on Mass Coefficient estimation</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/falconboi12/falconboi12/assets/100334581/eb087554-b205-4e28-b5dc-a58ca072ecb5" alt="Mesh" width="500">
+      <p>Performance on Stiffness Coefficient estimation</p>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+
+### Blind Source Seperation of Noisy Response 
+
+A Project under Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
+
+
+*📅 Duration:*  Aug '23-Present
+
+* Description:*
+
+- Utilizing Blind Source Seperation for source identification of noisy modal response 
+
+
+---
 
 ### Team Trident - Formula Student Car
 
@@ -45,9 +95,9 @@ The experimental results obtained were novel and cannot be shared exclusively, w
 
 *🔧 Description:* 
 
-Designed Formula Student Car Braking Subsystem: Spearheaded the design of the Formula Student car braking system, meticulously balancing essential factors including efficiency, weight, ergonomics, and adherence to safety regulations.
+- Designed Formula Student Car Braking Subsystem: Spearheaded the design of the Formula Student car braking system, meticulously balancing essential factors including efficiency, weight, ergonomics, and adherence to safety regulations.
 
-Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within Ansys to thoroughly assess the brake disc design. Notably, this process achieved a significant 15% weight reduction and a substantial 97% increase in strength, enhancing overall performance and safety margins.
+- Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within Ansys to thoroughly assess the brake disc design. Notably, this process achieved a significant 15% weight reduction and a substantial 97% increase in strength, enhancing overall performance and safety margins.
 
 
 <table>
@@ -66,74 +116,14 @@ Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within
 
 ---
 
-### Design and Development of Laboratory-Scale Tornado Simulator
-
-Engaged in an exploratory project guided by Associate Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
-
-
-*📅 Duration:*  Jan ’23-Apr ’23
-
-*Description:*
-
-- Orchestrated the creation of a cutting-edge tornado simulator for structural vulnerability testing.
-- Crafted an innovative approach utilizing guided airflow to induce a swirling effect, accurately mimicking tornado conditions.
-
-- Executed detailed ANSYS Fluent analyses to visualize the intricate pressure, velocity, and vorticity distribution within the simulated tornado formation.
-  - Simulated *150* tornado formation scenarios to comprehensively analyze pressure and velocity gradients.
-  - Generated *3D models* with *5 million mesh cells* for precise representation of tornado characteristics.
-
-- Fabricated a physical model of the tornado simulator, achieving *95% accuracy* in results as compared to simulated values.
-  - Conducted *30 tests* on the physical model to validate simulation accuracy.
-  - Implemented a new design incorporating thermal factors, enhancing the realism of tornado formation.
-
-This endeavour seamlessly merged theoretical insights with practical application, exemplifying my commitment to pushing the boundaries of engineering knowledge.
-
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8a492a95-29a5-4b66-805c-4f7c92f61709" alt="CAD" width="500">
-      <p>Created to-scale CAD model of mirroring real-life dimensions. </p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/b707d019-c804-42da-8e85-0aca4c9a135f" alt="Mesh" width="500">
-      <p>Meshing of the CAD</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-     <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/7d271522-cd50-4de8-8adf-6963e871ee4c" alt="Image 4" width="500">
-      <p>Path Line of Particle</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/cfdd6603-b0f3-442d-acb1-1f0c90584658" alt="Image 4" width="500">
-      <p>Velocity Vector</p>
-    </td>
-  </tr>
-</table>
-
-
----
-
-
-### Blind Source Seperation of noisy response 
-
-A Project under Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
-
-
-*📅 Duration:*  Aug '23-Present
-
-* Description:*
-
 
 ## Skills
 
-- 🔩 Mechanical Design and Analysis
+
 - 🛠 CAD/CAM and 3D Modeling
-- 🔬 Materials Science and Engineering
-- 🤖 Robotics and Automation
-- 💻 Programming (C++, Python)
+- 🔬 Civil Engineering
+- 🤖 Machine Learning and Signal Processing
+- 💻 Programming (MATLAB, Python)
 
 ## Contact Me
 
