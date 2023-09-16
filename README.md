@@ -4,7 +4,7 @@
    
 ## About Me
 
-"A precipitous slope, a narrow river width, a fast and violent flow. Due to the terrain and the external influence, the state of the water is perfectly decided. And yet, water obeys only itself. Water is only water. Thoroughly water. Absolutely free." <br>
+"A precipitous slope, a narrow river width, a fast and violent flow. The state of the water is perfectly decided yet, water obeys only itself. Water is only water. Thoroughly water. Absolutely free." <br>
 -- Miyamoto Musashi, Chapter 305: "The Water Path"
 
 I am Sarthak Anand, a junior undergraduate at Indian Institute of Technology (BHU), Varanasi, India. Navigating through binary or bridges, I am pursuing my degree in Civil Engineering and Computer Science. Apart from academia, I am interested in the whizzing speeds of motorsports, nuances of orchestrating checkmates, or deep diving in the world of ancient philosophers.
